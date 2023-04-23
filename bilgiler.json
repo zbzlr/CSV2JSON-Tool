@@ -1,0 +1,140 @@
+{
+satir 1	{
+"kolon 1":"Name",
+"kolon 2":" Sex",
+"kolon 3":" Age",
+"kolon 4":" Height (in)",
+"kolon 5":" Weight (lbs)"
+	}
+	satir 2	{
+"kolon 1":"Alex",
+"kolon 2":" M",
+"kolon 3":" 41",
+"kolon 4":" 74",
+"kolon 5":" 170"
+	}
+	satir 3	{
+"kolon 1":"Bert",
+"kolon 2":" M",
+"kolon 3":" 42",
+"kolon 4":" 68",
+"kolon 5":" 166"
+	}
+	satir 4	{
+"kolon 1":"Carl",
+"kolon 2":" M",
+"kolon 3":" 32",
+"kolon 4":" 70",
+"kolon 5":" 155"
+	}
+	satir 5	{
+"kolon 1":"Dave",
+"kolon 2":" M",
+"kolon 3":" 39",
+"kolon 4":" 72",
+"kolon 5":" 167"
+	}
+	satir 6	{
+"kolon 1":"Elly",
+"kolon 2":" F",
+"kolon 3":" 30",
+"kolon 4":" 66",
+"kolon 5":" 124"
+	}
+	satir 7	{
+"kolon 1":"Fran",
+"kolon 2":" F",
+"kolon 3":" 33",
+"kolon 4":" 66",
+"kolon 5":" 115"
+	}
+	satir 8	{
+"kolon 1":"Gwen",
+"kolon 2":" F",
+"kolon 3":" 26",
+"kolon 4":" 64",
+"kolon 5":" 121"
+	}
+	satir 9	{
+"kolon 1":"Hank",
+"kolon 2":" M",
+"kolon 3":" 30",
+"kolon 4":" 71",
+"kolon 5":" 158"
+	}
+	satir 10	{
+"kolon 1":"Ivan",
+"kolon 2":" M",
+"kolon 3":" 53",
+"kolon 4":" 72",
+"kolon 5":" 175"
+	}
+	satir 11	{
+"kolon 1":"Jake",
+"kolon 2":" M",
+"kolon 3":" 32",
+"kolon 4":" 69",
+"kolon 5":" 143"
+	}
+	satir 12	{
+"kolon 1":"Kate",
+"kolon 2":" F",
+"kolon 3":" 47",
+"kolon 4":" 69",
+"kolon 5":" 139"
+	}
+	satir 13	{
+"kolon 1":"Luke",
+"kolon 2":" M",
+"kolon 3":" 34",
+"kolon 4":" 72",
+"kolon 5":" 163"
+	}
+	satir 14	{
+"kolon 1":"Myra",
+"kolon 2":" F",
+"kolon 3":" 23",
+"kolon 4":" 62",
+"kolon 5":" 98"
+	}
+	satir 15	{
+"kolon 1":"Neil",
+"kolon 2":" M",
+"kolon 3":" 36",
+"kolon 4":" 75",
+"kolon 5":" 160"
+	}
+	satir 16	{
+"kolon 1":"Omar",
+"kolon 2":" M",
+"kolon 3":" 38",
+"kolon 4":" 70",
+"kolon 5":" 145"
+	}
+	satir 17	{
+"kolon 1":"Page",
+"kolon 2":" F",
+"kolon 3":" 31",
+"kolon 4":" 67",
+"kolon 5":" 135"
+	}
+	satir 18	{
+"kolon 1":"Quin",
+"kolon 2":" M",
+"kolon 3":" 29",
+"kolon 4":" 71",
+"kolon 5":" 176"
+	}
+	satir 19	{
+"kolon 1":"Ruth",
+"kolon 2":" F",
+"kolon 3":" 28",
+"kolon 4":" 65",
+"kolon 5":" 131"
+	}
+	satir 20	{
+"kolon 1":""
+	}
+	satir 21	{
+"kolon 1":"ÿ
+}
